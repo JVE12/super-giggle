@@ -1,0 +1,10 @@
+body{
+    background-image: url(bg1.jpg);
+    background-position: center;
+    background-size:cover;
+}
+
+#gg{
+    font-size: 50px;
+    font-style: rgb(255, 145, 0);
+}
